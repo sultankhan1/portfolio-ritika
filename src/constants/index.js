@@ -171,7 +171,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but ritika proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Ritika proved me wrong.",
     name: "MD Mustaqeem",
     designation: "Ecommerce",
     company: "QuickMart",
@@ -179,7 +179,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like ritika does.",
+      "I've never met a web developer who truly cares about their clients' success like Ritika does.",
     name: "Abdul Raheman",
     designation: "Ecommerce Business",
     company: "justbuyz",
@@ -187,7 +187,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After ritika optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Ritika optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "James Wang",
     designation: "CTO",
     company: "456 Enterprises",
